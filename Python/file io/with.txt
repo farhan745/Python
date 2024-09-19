@@ -1,0 +1,1 @@
+For numbers 1 to 20, we can directly refer to the number names 1 to 50 chart to write their spellings. This is because numbers from 1 to 20 have a different pattern. After 20, a simple common rule applies to all the numbers which is repeatedly followed. For example, the number name of 8 is eight, the number name of 15 is fifteen, 12 is written as twelve, and so on.
