@@ -1,0 +1,31 @@
+-Python is a high-level, interpreted programming language
+-Guido van Rossum and first release in 1991
+
+-Simplicity
+-Versatility
+-Large Community
+-Career Opportunities
+
+-PC->
+-Server PC- Host Computer/Cloud Computer(Python/Django)
+-Client PC- Browser/Postman
+
+-Web Development
+-Data Science and Mechine Learning
+-Automation and Scripting
+-Game Development
+-Embedded Systems
+
+***What is Python?
+->Python is a Interprated Language.Its called by mid level language.
+#mid level:
+1.Low
+2.high
+
+***Why python: 
+          -Programming
+          -Web
+          -Data
+          -ML/AI/Thesis
+
+***Real World - ChatGPT,Youtube

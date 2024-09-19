@@ -1,0 +1,9 @@
+body{
+  background-color: aqua;
+  background-image: url(back-img.jpg);
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+}
