@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h3>Hello</h3>
+    <div id="div1">
+      <p id="p1">This is a paragraph.</p>
+      <p id="p2">This is another paragraph.</p>
+    </div>
+    <script>
+      const para = document.createElement("p");
+      const node = document.createTextNode("This is new.");
+      para.appendChild(node);
+
+      const element = document.getElementById("div1");
+      const child = document.getElementById("p1");
+      element.insertBefore(para, child);
+
+      /*
+    //remove->
+    const elmnt = document.getElementById('p1');
+    elmnt.remove();
+
+    //removeChild->
+    const parent = document.getElementById('div1');
+    const child1 = document.getElementById('p1');
+    parent.removeChild(child1);
+    */
+   //replace
+   const parent1 = document.getElementById("div1");
+   const child2 = document.getElementById("p1");
+   const child3 = document.getElementById("p2");
+   parent1.replaceChild(child3, child2);
+    </script>
+  </body>
+</html>

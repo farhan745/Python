@@ -14,4 +14,6 @@ let obj = {
   }
 }
 console.log(obj);
-obj.greet()
+obj.greet();
+
+
